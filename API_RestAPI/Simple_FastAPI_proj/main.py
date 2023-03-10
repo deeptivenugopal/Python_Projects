@@ -1,5 +1,9 @@
 #Basic API
 #Used 3 different endpoints to explain the working of endpoint,parameters
+'''
+How to create an API in Python
+https://anderfernandez.com/en/blog/how-to-create-api-python/
+'''
 
 from fastapi import FastAPI
 app = FastAPI()
