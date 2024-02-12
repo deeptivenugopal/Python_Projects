@@ -14,3 +14,8 @@ To host the app server on browser used:
 ## Project Description
 
 This project is a simple UI taking User Input and displying to the user. 
+
+## UI Interface
+
+![image]
+(https://github.com/deeptivenugopal/Python_Projects/blob/main/First_StreamLit_App/FIrst_Streamlit_App.PNG?raw=true)
