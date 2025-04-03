@@ -1,0 +1,5 @@
+2025-03-25 17:06:15,827 - INFO - Starting web scrapping application...
+2025-03-25 17:06:17,217 - INFO - URL https://quotes.toscrape.com/ opened correctly
+2025-03-25 17:06:17,248 - INFO - Response was parsed,10 html elements were retrieved
+2025-03-25 17:06:17,248 - INFO - Quotes and authors combined successfully and found = 10 records
+2025-03-25 17:06:17,264 - INFO - File quotes_of_authors.csv is updated successfully
